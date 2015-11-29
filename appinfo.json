@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lucasliberacki@yahoo.com",
+    "longName": "GenericTimer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "compatibility": "2.7",
+                "file": "fonts/data-latin.ttf",
+                "name": "FONT_DATA_LATIN_55",
+                "type": "font"
+            },
+            {
+                "file": "images/temp.png",
+                "menuIcon": true,
+                "name": "Temp_Image",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "compatibility": "2.7",
+                "file": "fonts/OSP-DIN_95.ttf",
+                "name": "FONT_OSP_DIN_70",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "GenericTimer",
+    "uuid": "0e4ae6fd-d6e2-40b6-b77f-6d804f47104c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
